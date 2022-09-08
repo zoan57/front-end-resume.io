@@ -1,0 +1,36 @@
+    body {
+        font-size: 20px;
+        color: rgb(36, 36, 142);
+        background-color: #929e8f;
+        width: 80%;
+        margin: auto;
+        font-family: tensentype-ruihei, sans-serif;
+        font-weight: 300;
+        font-style: normal;
+    }
+    
+    fieldset {
+        border-radius: 1em;
+        background-color: #f1f0ea;
+        padding: 1% 5%;
+        max-width: 800px auto;
+        margin-top: 4%;
+    }
+    
+    legend {
+        background-color: white;
+        border-radius: 10px;
+        border: solid white;
+        padding: 10px 10px;
+        color: black;
+        font-weight: 600;
+        font-size: larger;
+    }
+    
+    a:hover {
+        color: brown;
+    }
+    
+    a:visited {
+        color: brown;
+    }
